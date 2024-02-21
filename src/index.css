@@ -399,7 +399,7 @@ a.NameLogo {
 /*** Team End ***/
 
 /* *** Contact Start ***/
-*/ .contact-detail::before {
+.contact-detail::before {
   position: absolute;
   content: "";
   height: 50%;
